@@ -1,0 +1,57 @@
+# שרון גל עיצוב שיער — Generative Engine Optimization Map
+
+> A יופי וטיפוח business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ac9060dc.zappy5.app
+שרון גל עיצוב שיער - מספרה לנשים מובילה בישראל. עיצוב שיער מקצועי, תוצאות מושלמות. הזמיני תור עוד היום!
+
+### שירותים
+https://-ac9060dc.zappy5.app/services
+גלי את מגוון השירותים המקצועיים במספרה לנשים בישראל - תספורות, צביעה, החלקות ועוד. שרון גל עיצוב שיער.
+
+### אודות
+https://-ac9060dc.zappy5.app/about
+הכירו את שרון גל עיצוב שיער - מספרה לנשים בישראל עם ניסיון עשיר, מקצועיות ותשוקה לעיצוב שיער מושלם.
+
+### צור קשר
+https://-ac9060dc.zappy5.app/contact
+צרי קשר עם שרון גל עיצוב שיער - מספרה לנשים בישראל. הזמיני תור עכשיו ותקבלי עיצוב שיער מקצועי ומושלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ac9060dc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ac9060dc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ac9060dc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שרון גל עיצוב שיער
+שרון גל עיצוב שיער is a business in the יופי וטיפוח industry.
+
+## Target Audience
+נשים
+
+## Industry
+יופי וטיפוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ac9060dc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ac9060dc.zappy5.app/robots.txt

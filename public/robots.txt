@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://-ac9060dc.zappy5.app/sitemap.xml
